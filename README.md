@@ -1,4 +1,4 @@
-
+![logo](https://github.com/pragati123madhav/pragati123madhav/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Pragati Madhav</h1>
 <h3 align="center">A passionate software developer. Tech Enthusiastic</h3>
 
